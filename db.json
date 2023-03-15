@@ -60,5 +60,14 @@
       "age": 20,
       "email": "cnorssister9@mayoclinic.com"
     }
+  ],
+  "data":[
+    {
+        "id": 1,
+        "title": "Node js",
+        "author": "Masai"
+        
+      }
+
   ]
 }
