@@ -26,6 +26,7 @@
     "hotels":[],
 
     "recipes":[],
-    "movies":[]
+    "movies":[],
+    "tracker":[]
 
 }
