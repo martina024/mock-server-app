@@ -28,6 +28,7 @@
     "recipes":[],
     "movies":[],
     "tracker":[],
-    "players":[]
+    "players":[],
+    "appointments":[]
 
 }
