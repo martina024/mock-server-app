@@ -29,6 +29,7 @@
     "movies":[],
     "tracker":[],
     "players":[],
-    "appointments":[]
+    "appointments":[],
+    "freelancers":[]
 
 }
