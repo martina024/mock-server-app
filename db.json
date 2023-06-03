@@ -30,6 +30,7 @@
     "tracker":[],
     "players":[],
     "appointments":[],
-    "freelancers":[]
+    "freelancers":[],
+    "forum":[]
 
 }
